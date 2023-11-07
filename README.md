@@ -45,3 +45,7 @@ After installation, the Tampermonkey icon should appear in your browser's extens
 2. Simply reload the page by pressing `F5` or clicking the reload button in your browser.
 3. The userscript should now be operational, and you should see the changes applied by `Dyslexic-vine.js`.
 
+## Recommended Viewing Experience
+
+To enhance readability for users with dyslexia, it is recommended to view [Vine Styling for Amazon](https://github.com/Thorvarium/vine-styling) in dark mode. The dyslexia-friendly font used tends to pop out more and provide a clearer contrast against a dark background
+
