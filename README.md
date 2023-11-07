@@ -25,18 +25,19 @@ After installation, the Tampermonkey icon should appear in your browser's extens
 
 ### Step 1: Installing Script 
 
-1. Go to this link [here](https://raw.githubusercontent.com/97249122/DyslexicVine/master/Dyslexia-With-Vine.user.js) and click the "Install" button, sometimes it might show as "Reinstall" instead, click this anyways.#
+1. Go to this link [here](https://raw.githubusercontent.com/97249122/DyslexicVine/master/Dyslexia-With-Vine.user.js) and click the "Install" button, sometimes it might show as "Reinstall" instead, click this anyways.
+   
 ![](images/image-1.png)
 
 
-### Step 3: Save and Activate
+### Step 2: Save and Activate
 
 1. To save the script, press `Ctrl + S` or click on the disk icon to save the script in Tampermonkey.
 2. Once saved, the script should be active by default. If not, ensure the script is enabled in the Tampermonkey dashboard.
 
-### Step 4: Reload Amazon Page
+### Step 2: Reload Amazon Page
 
-1. Navigate to the Amazon page where you want the script to run.
+1. Navigate to the Amazon Vine webpage.
 2. Simply reload the page by pressing `F5` or clicking the reload button in your browser.
 3. The userscript should now be operational, and you should see the changes applied by `Dyslexic-vine.js`.
 
