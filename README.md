@@ -23,16 +23,11 @@ Tampermonkey is a userscript manager that allows you to manage and run userscrip
 
 After installation, the Tampermonkey icon should appear in your browser's extension area, indicating that it is ready to use. Now you can proceed to add userscripts and enhance your browsing experience.
 
-### Step 1: Create a New Script
+### Step 1: Installing Script 
 
-1. Click the Tampermonkey icon in your browser's extension area.
-2. Choose 'Create a new script...' from the dropdown menu. This will open the Tampermonkey script editor.
+1. Go to this link [here](https://raw.githubusercontent.com/97249122/DyslexicVine/master/Dyslexia-With-Vine.user.js) and click the "Install" button, sometimes it might show as "Reinstall" instead, click this anyways.#
+![](images/image-1.png)
 
-### Step 2: Paste the Code
-
-1. In the Tampermonkey script editor, clear any pre-filled template if present.
-2. Copy the entire code from `Dyslexic-vine.js`.
-3. Paste the code into the Tampermonkey script editor.
 
 ### Step 3: Save and Activate
 
