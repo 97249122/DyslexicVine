@@ -26,7 +26,7 @@ After installation, the Tampermonkey icon should appear in your browser's extens
 
 ### Step 1: Installing Script 
 
-1. Go to this link [here](https://raw.githubusercontent.com/97249122/DyslexicVine/master/Dyslexia-With-Vine.user.js) and click the "Install" button, sometimes it might show as "Reinstall" instead, click this anyways.
+1. Go to this link [here](https://raw.githubusercontent.com/wattsoner/DyslexicVine/master/Dyslexia-With-Vine.user.js) and click the "Install" button, sometimes it might show as "Reinstall" instead, click this anyways.
    
 ![](images/image-1.png)
 
