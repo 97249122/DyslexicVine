@@ -1,5 +1,5 @@
 # DyslexicVine
-This styling for Amazon Vine, specifically for people with dyslexia
+This styling for Amazon Vine, specifically for people with dyslexia. This uses the OpenDyslexic font, please consider donating [here](https://opendyslexic.org).  if you like the font.  
 
 ## Installation
 
